@@ -1,7 +1,6 @@
 {
   "name": "contactbook-backend",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "cors": "^2.8.5",
@@ -23,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/tiendug123/Phat-Trien-Ung-Dung-Weeb/issues"
   },
-  "homepage": "https://github.com/tiendug123/Phat-Trien-Ung-Dung-Weeb#readme"
+  "homepage": "https://github.com/tiendug123/Phat-Trien-Ung-Dung-Weeb#readme",
+  "description": ""
 }
