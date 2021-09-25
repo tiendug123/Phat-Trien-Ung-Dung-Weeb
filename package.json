@@ -1,0 +1,25 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiendug123/Phat-Trien-Ung-Dung-Weeb.git"
+  },
+  "author": "Tien Dung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiendug123/Phat-Trien-Ung-Dung-Weeb/issues"
+  },
+  "homepage": "https://github.com/tiendug123/Phat-Trien-Ung-Dung-Weeb#readme"
+}
